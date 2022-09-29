@@ -2,7 +2,7 @@
 - 👀 I’m interested in Building Full Fledged Website and Webpages. 
 - 🌱 I’m currently learning at Ineuron.ai
 - 💞️ I’m looking to collaborate on any Web Development Talks.
-- 📫 How to reach me at technowasim3@gmail.com
+- 📫 You can reach me at technowasim3@gmail.com
 
 <!---
 technowasim3/technowasim3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
