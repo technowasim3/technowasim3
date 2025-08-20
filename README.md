@@ -39,4 +39,12 @@
 ⭐ *“Code is like humor. When you have to explain it, it’s bad.”*  
 
 
+![Profile views](https://komarev.com/ghpvc/?username=technowasim3 &label=Profile%20views&color=0e75b6&style=flat)
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+![Visitors](https://img.shields.io/badge/dynamic/json?url=YOUR_COUNTER_ENDPOINT&label=Visitors&query=value)
 
